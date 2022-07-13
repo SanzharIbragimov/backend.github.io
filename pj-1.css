@@ -1,0 +1,33 @@
+body {
+  background-color: lightblue
+}
+hr {
+  border-style: none;
+  background-color: white;
+  height: 2px;
+}
+h3{
+  color:#419385;
+}
+h1 {
+    font-size: 100px;
+    color: red;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+.coffe{
+    background-color: antiquewhite;
+}
+#heading {
+    color:purple;
+}
+.first-paragraph {
+    font-size: 25px;
+    color: gold;
+    font-weight: bold;
+}
+.second-paragraph {
+    font-size: 8px;
+    color:green;
+    font-weight: bold;
+}
